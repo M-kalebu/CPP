@@ -7,6 +7,7 @@ int main()
     getline(cin, a);
     // getline(cin, a);
     cout << a;
+    // cout << a;
 
     return 0;
 }
