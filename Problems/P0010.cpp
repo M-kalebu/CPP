@@ -8,6 +8,7 @@ int main()
     // getline(cin, a);
     cout << a;
     // cout << a;
+    // cout << a;
 
     return 0;
 }
