@@ -3,15 +3,23 @@ using namespace std;
 
 int main()
 {
-    // cout << "10+10";
-    cout << "10+10";
-    // cout << "this operator is called insertation" "\n" << "hello world" << endl;
-    cout << "this operator is called insertation"
-            "\n"
-         << "hello world" << endl;
+     // cout << "10+10";
+     cout << "10+10";
+     // cout << "this operator is called insertation" "\n" << "hello world" << endl;
+     cout << "this operator is called insertation"
+             "\n"
+          << "hello world" << endl;
 
-    cout << "this operator is called insertation" << endl
-         << "hello world";
+     cout << "this operator is called insertation" << endl
+          << "hello world";
 
-    return 0;
+     return 0;
 }
+
+// #include <iostream>
+// using namespace std;
+
+// int main()
+// {
+//      cout << 10 + 10;
+// }
